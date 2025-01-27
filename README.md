@@ -1,1 +1,1 @@
-spam-chat
+spam_chat
